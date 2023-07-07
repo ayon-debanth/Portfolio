@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ayon Debnath</h1>
 <h3 align="center">I am a Certified Cyber Security Expert from Bangladesh</h3>
-<img aling="right" alt="coding" width="400" src="https://github.com/ayon-debanth/Portfolio/blob/main/debnath%20cyber%20security%20serrvice%20.gif">
+
+<img aling="right" alt="coding" width="400" src="[https://github.com/ayon-debanth/Portfolio/blob/main/debnath%20cyber%20security%20serrvice%20.gif](https://github.com/ayon-debanth/Portfolio/blob/main/ayon%20debnath%20(2).png)">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayon-debanth&label=Profile%20views&color=0e75b6&style=flat" alt="ayon-debanth" /> </p>
 
 - I’m currently studying on **Computer Science & Engineering**
